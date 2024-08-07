@@ -6,6 +6,7 @@ public class Java_Git2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("second program");
+		System.out.println("checking pull request");
 
 	}
 
