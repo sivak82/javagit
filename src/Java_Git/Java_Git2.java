@@ -7,6 +7,7 @@ public class Java_Git2 {
 		
 		System.out.println("second program");
 		System.out.println("checking pull request");
+		System.out.println("we have checked pull request");
 
 	}
 
